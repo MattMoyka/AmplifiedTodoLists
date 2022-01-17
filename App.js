@@ -15,6 +15,8 @@ async function signOut() {
   }
 }
 
+
+
 function App() {
   return (
     <View style={styles.container}>
